@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/toDoList_2022_06_13/static/js/main.74643ee4.js",
-    "index.html": "/toDoList_2022_06_13/index.html",
-    "main.74643ee4.js.map": "/toDoList_2022_06_13/static/js/main.74643ee4.js.map"
+    "main.js": "/todo_list_2022_06_13/static/js/main.00d95ae5.js",
+    "index.html": "/todo_list_2022_06_13/index.html",
+    "main.00d95ae5.js.map": "/todo_list_2022_06_13/static/js/main.00d95ae5.js.map"
   },
   "entrypoints": [
-    "static/js/main.74643ee4.js"
+    "static/js/main.00d95ae5.js"
   ]
 }
